@@ -5,11 +5,34 @@ format: html
 ---
 
 ## Objective:
+
 To develop a systematic approach for analyzing code-switching phenomena by integrating linguistic features, contextual variables, and emotional expressions, as outlined in the research statement.
 
 ## Methodology:
 
+<!--
+
+2024-04-24
+
+The first step is to identify the data/ dataset(s) that would be relevant for this research question. Without a sense of what data exists and the format of that potential data, the other processing steps to prepare the data for analysis are all just a guess.
+
+So, do your best to identify data that would satisfy the research question. If you can't find data, then take a look at a sample of that data to find out what it looks like, what format it is in, and what kind of processing it might need.
+
+If you cannot find data, then you can then describe the ideal data that would be needed to answer the research question. And then describe the processing steps. Note the hypothetical data should be specific in terms of the sampling frame, the variables, and the format.
+
+-->
+
+
 - Data Preprocessing:
+
+<!--
+2024-04-24
+
+You are suggesting that you are going to use all these strategies? It is not realistic to think that all of these strategies will be needed.
+
+It should be clear that what you are proposing to do is directly related to the research question. The last I looked, the research question still needed to be defined more clearly.
+
+-->
 
   - Tokenization: Segment the text data into individual tokens (words, morphemes) to facilitate subsequent analysis.
 
@@ -22,6 +45,15 @@ To develop a systematic approach for analyzing code-switching phenomena by integ
   - Feature Engineering: Create additional features based on linguistic properties (e.g., syntactic structures, lexical diversity) to enrich the dataset for analysis.
 
 - Quantitative Analysis:
+
+<!--
+
+2024-04-24
+
+These are a lot of analysis strategies. Furthermore, you are mixing exploratory and predictive analysis strategies. Again, it is not entirely clear to me what you are proposing to do and what research aim you are trying to address. More background research and a more refined research question is needed to help me (and you) focus on what is needed to answer the research question.
+
+-->
+
 
   - Frequency Analysis: Determine the frequency of code-switching instances across different language pairs, speaker demographics, and communicative contexts.
 
@@ -55,11 +87,19 @@ To develop a systematic approach for analyzing code-switching phenomena by integ
 
 - Cross-validation: Validate the consistency and reliability of analysis methods through cross-validation techniques, ensuring robustness and reproducibility of results.
 
+<!-- 2024-04-24: if you do a predictive analysis -->
+
 - Peer Review: Seek feedback from domain experts and interdisciplinary scholars to evaluate the effectiveness and applicability of the proposed analysis methods.
+
+<!-- 2024-04-24: this is more for a preliminary, pre-planning stage, not the evaluation of the research findings. -->
 
 - Iterative Refinement: Iterate the analysis process based on feedback and insights gained from preliminary findings, refining methodologies to enhance accuracy and interpretability.
 
+<!-- 2024-04-24: yes, in the case that you use an exploratory approach, but again, this would not be evaluation of the findings, but rather the evaluation used iteratively to apply and re-apply exploratory methods to derive the insight that you will evaluate. -->
+
 ## Ethical Considerations:
+
+<!-- 2024-04-24: you have not proposed using human subjects in this research. These privacy concerns are for research in which you directly interact with participants --not working with language resources. There are, however, important considerations in terms of licensing of resources which we covered in class, but you should review this as part of the data acquisition process. -->
 
 - Privacy Protection: Safeguard the privacy and confidentiality of participants' language data, adhering to ethical guidelines and data protection regulations.
 
